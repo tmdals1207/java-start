@@ -7,4 +7,3 @@ public class MemberMain {
         member.print();
     }
 }
-
