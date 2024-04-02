@@ -6,6 +6,5 @@ public class MemberMain {
         member.changeData("myId2","seo");
         member.print();
 
-
     }
 }
