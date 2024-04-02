@@ -5,7 +5,6 @@ public class MemberMain {
         member.print();
         member.changeData("myId2","seo");
         member.print();
-        member.print();
     }
 }
 
